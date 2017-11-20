@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1-header" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 89.4 65.9" style="enable-background:new 0 0 89.4 65.9;" xml:space="preserve">
+<style type="text/css">
+	.st0-header{clip-path:url(#SVGID_2-header_);fill:none;stroke:#3375AF;stroke-width:5.95;}
+	.st1-header{clip-path:url(#SVGID_2-header_);fill:#3375AF;}
+	.st2-header{clip-path:url(#SVGID_2-header_);fill:none;stroke:#00539B;stroke-width:2;}
+	.st3-header{fill:#00539B;}
+	.st4-header{fill:#FFF; font-family:'BebasNeueLight'; font-size:37px;}
+	.st7-header{font-family:'BebasNeueBold'; font-size:18.5px;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1-header_" x="-2.5" y="0.3" width="102.2" height="66.2"/>
+	</defs>
+	<clipPath id="SVGID_2-header_">
+		<use xlink:href="#SVGID_1-header_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0-header" d="M33.2,62.6c16.3,0,29.6-13.3,29.6-29.6S49.5,3.3,33.2,3.3S3.6,16.6,3.6,32.9S16.8,62.6,33.2,62.6z"/>
+	<path class="st1-header" d="M70.7,64.6c9.5,0,17.1-7.7,17.1-17.1s-7.7-17.1-17.1-17.1S53.6,38,53.6,47.4S61.3,64.6,70.7,64.6"/>
+	<circle class="st2-header" cx="70.9" cy="47.4" r="17.1"/>
+</g>
+<g>
+	<path class="st3-header" d="M62.5,41.5l0.7-4.5h1.4v6.3h-0.9v-4.5l-0.7,4.5H62l-0.7-4.5v4.5h-0.9V37h1.4L62.5,41.5z"/>
+	<path class="st3-header" d="M66.2,39.7h1.4v0.9h-1.4v1.8h1.7v0.9h-2.7V37h2.7v0.9h-1.7V39.7z"/>
+	<path class="st3-header" d="M68.6,37h1.6c0.5,0,0.9,0.1,1.1,0.4c0.2,0.3,0.4,0.7,0.4,1.2v3.2c0,0.5-0.1,0.9-0.4,1.2
+		c-0.2,0.3-0.6,0.4-1.1,0.4h-1.6V37z M69.5,37.9v4.5h0.6c0.2,0,0.3,0,0.4-0.1c0.1-0.1,0.1-0.2,0.1-0.5v-3.3c0-0.2,0-0.4-0.1-0.5
+		c-0.1-0.1-0.2-0.1-0.4-0.1H69.5z"/>
+	<path class="st3-header" d="M72.2,37h1v6.3h-1V37z"/>
+	<path class="st3-header" d="M77.1,43.3h-1L76,42.2h-1.2l-0.2,1.1h-0.9l1-6.3h1.4L77.1,43.3z M74.9,41.3h1l-0.5-3.2L74.9,41.3z"/>
+	<path class="st3-header" d="M78.5,38.8v4.6h-0.9V37h1.2l1,3.8V37h0.9v6.3h-1L78.5,38.8z"/>
+	<path class="st3-header" d="M82.4,39v1h-1v-1H82.4z M82.4,42.4v1h-1v-1H82.4z"/>
+</g>
+<text transform="matrix(1 0 0 1 33 46.1709)" class="st4-header" text-anchor="middle">222</text>
+<text transform="matrix(1 0 0 1 70 58.209)"><tspan x="0" y="0" class="st3-header st7-header" text-anchor="middle">158</tspan></text>
+</svg>

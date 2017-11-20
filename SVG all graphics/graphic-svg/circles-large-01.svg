@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1-bubbleLarge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 97.4 78.8" style="enable-background:new 0 0 97.4 78.8;" xml:space="preserve">
+<style type="text/css">
+	.st0-bubbleLarge{fill:#87A73E; font-family:'BebasNeueLight'; font-size:42px;}
+	.st3-bubbleLarge{clip-path:url(#SVGID_2-bubbleLarge_);fill:none;stroke-width:7.411;}
+	.st4-bubbleLarge{clip-path:url(#SVGID_2-bubbleLarge_);}
+	.st5-bubbleLarge {clip-path:url(#SVGID_2-bubbleLarge_);fill:none;stroke-width:2.25;}
+	.st6-bubbleLarge{fill:#FFFFFF; font-family:'BebasNeueBold'; font-size:19px;}
+	.PTScoreVeryLow {fill:#5A7F38;}
+	.PTScoreLow {fill:#87A73D;}
+	.PTScoreModerate {fill:#E3A224;}
+	.PTScoreElevated {fill:#EF6B24;}
+	.PTScoreHigh {fill:#B52025;}
+	
+	.borderVeryLow {stroke:#5A7F38;}
+	.borderLow {stroke:#87A73D;}
+	.borderModerate {stroke:#E3A224;}
+	.borderElevated {stroke:#EF6B24;}
+	.borderHigh {stroke:#B52025;}
+	.borderWhite {stroke:#FFFFFF;}
+	.borderGray {stroke:#E9EAEB;}
+</style>
+<text transform="matrix(1 0 0 1 39 54)" class="st0-bubbleLarge PTScoreLow" text-anchor="middle">23</text>
+<g>
+	<defs>
+		<rect id="SVGID_1-bubbleLarge_" x="-8.8" y="-6.7" width="114.8" height="86.3"/>
+	</defs>
+	<clipPath id="SVGID_2-bubbleLarge_">
+		<use xlink:href="#SVGID_1-bubbleLarge_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st3-bubbleLarge borderLow" d="M38.9,73.7C58.3,73.7,74,58.1,74,38.9S58.3,4,38.9,4S3.9,19.7,3.9,38.9S19.6,73.7,38.9,73.7z"/>
+	<path class="st4-bubbleLarge PTScoreLow" d="M78.1,77.4c9.8,0,17.8-7.8,17.8-17.3s-8-17.3-17.8-17.3s-17.8,7.8-17.8,17.3S68.4,77.4,78.1,77.4"/>
+	<path class="st5-bubbleLarge borderWhite" d="M78.1,77.4c9.8,0,17.8-7.8,17.8-17.3s-8-17.3-17.8-17.3s-17.8,7.8-17.8,17.3S68.4,77.4,78.1,77.4z"/>
+</g>
+<g>
+	<path class="st6-bubbleLarge" d="M69.8,54.9l0.7-4.5h1.4v6.3h-0.9v-4.5l-0.7,4.5h-0.9l-0.7-4.5v4.5h-0.9v-6.3h1.4L69.8,54.9z"/>
+	<path class="st6-bubbleLarge" d="M73.5,53.1h1.4V54h-1.4v1.8h1.7v0.9h-2.7v-6.3h2.7v0.9h-1.7V53.1z"/>
+	<path class="st6-bubbleLarge" d="M75.7,50.5h1.6c0.5,0,0.9,0.1,1.1,0.4c0.2,0.3,0.4,0.7,0.4,1.2v3.2c0,0.5-0.1,0.9-0.4,1.2
+		c-0.2,0.3-0.6,0.4-1.1,0.4h-1.6V50.5z M76.7,51.4v4.5h0.6c0.2,0,0.3,0,0.4-0.1s0.1-0.2,0.1-0.5V52c0-0.2,0-0.4-0.1-0.5
+		c-0.1-0.1-0.2-0.1-0.4-0.1H76.7z"/>
+	<path class="st6-bubbleLarge" d="M79.3,50.5h1v6.3h-1V50.5z"/>
+	<path class="st6-bubbleLarge" d="M84.2,56.8h-1L83,55.6h-1.2l-0.2,1.1h-0.9l1-6.3h1.4L84.2,56.8z M81.9,54.8h1l-0.5-3.2L81.9,54.8z"/>
+	<path class="st6-bubbleLarge" d="M85.4,52.2v4.6h-0.9v-6.3h1.2l1,3.8v-3.8h0.9v6.3h-1L85.4,52.2z"/>
+	<path class="st6-bubbleLarge" d="M89.2,52.4v1h-1v-1H89.2z M89.2,55.8v1h-1v-1H89.2z"/>
+</g>
+<text transform="matrix(1 0 0 1 78 73.1974)" class="st6-bubbleLarge" text-anchor="middle">23</text>
+</svg>
