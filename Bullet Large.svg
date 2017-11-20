@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.02" height="52" viewBox="0 0 65.02 52">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="64" height="52" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>Bullet Large</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Path_01">
+      <g id="Artwork_4" data-name="Artwork 4">
+        <g style="clip-path: url(#clip-path)">
+          <polygon points="13.02 3 13.02 49 48.84 49 65.02 26 48.84 3 13.02 3" style="fill: #c7c8ca"/>
+          <polygon points="0 0 0 52 40.49 52 58.78 26 40.49 0 0 0" style="fill: #808082"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
